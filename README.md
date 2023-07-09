@@ -7,27 +7,20 @@ Welcome to my GitHub profile! I'm Aman , a computer science graduate with a pass
 Here are some of the skills I've acquired throughout my academic and professional journey:
 
 - Machine Learning 🤖
-- Deep Learning 🧠
-- Git (Version Control) :octocat:
 - Java ☕
 - AWS (Amazon Web Services) ☁️
 - Azure (Microsoft Azure) ☁️
 - PyTorch 🐍
-- TensorFlow 🧠
-- HTML & CSS 💻
 - Python 🐍
 - JavaScript 🌐
-- Microsoft Word 📝
 
 ## 🎉 Hobbies
 
 When I'm not immersed in coding and technology, you can find me indulging in various hobbies and activities:
 
 - Football ⚽️
-- Philosophy 📚
 - Powerlifting 💪
 - Food Lover 🍔🍕🍣
-- Tinkering 🔧
 - Crafting 🎨
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/choobs) or reach out via email at amanchaubey@outlook.com. You can also check out some of my projects and contributions on my [GitHub](www.github.com/choobs1) page.
