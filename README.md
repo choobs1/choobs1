@@ -23,7 +23,7 @@ When I'm not immersed in coding and technology, you can find me indulging in var
 - Food Lover 🍔🍕🍣
 - Crafting 🎨
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/choobs) or reach out via email at amanchaubey@outlook.com. You can also check out some of my projects and contributions on my [GitHub](www.github.com/choobs1) page.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/choobs). You can also check out some of my projects and contributions below.
 
 Thanks for stopping by! Have a great day! 😄
 
