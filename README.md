@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm Aman Choubey, a final year computer science student with a passion for technology and a knack for problem-solving. I believe in constantly exploring new possibilities and pushing the boundaries of what I can achieve. 😄
+Welcome to my GitHub profile! I'm Aman , a computer science graduate with a passion for technology and a knack for problem-solving. I believe in constantly exploring new possibilities and pushing the boundaries of what I can achieve. 😄
 
 ## 👨‍💻 Skills
 
