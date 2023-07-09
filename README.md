@@ -1,5 +1,41 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! I'm Aman Choubey, a final year computer science student with a passion for technology and a knack for problem-solving. I believe in constantly exploring new possibilities and pushing the boundaries of what I can achieve. 😄
+
+## 👨‍💻 Skills
+
+Here are some of the skills I've acquired throughout my academic and professional journey:
+
+- Machine Learning 🤖
+- Deep Learning 🧠
+- Git (Version Control) :octocat:
+- Java ☕
+- AWS (Amazon Web Services) ☁️
+- Azure (Microsoft Azure) ☁️
+- PyTorch 🐍
+- TensorFlow 🧠
+- HTML & CSS 💻
+- Python 🐍
+- JavaScript 🌐
+- Microsoft Word 📝
+
+## 🎉 Hobbies
+
+When I'm not immersed in coding and technology, you can find me indulging in various hobbies and activities:
+
+- Football ⚽️
+- Philosophy 📚
+- Powerlifting 💪
+- Food Lover 🍔🍕🍣
+- Tinkering 🔧
+- Crafting 🎨
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/choobs) or reach out via email at amanchaubey@outlook.com. You can also check out some of my projects and contributions on my [GitHub](www.github.com/choobs1) page.
+
+Thanks for stopping by! Have a great day! 😄
+
+
+
 <!--
 **choobs1/choobs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
