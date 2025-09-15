@@ -1,31 +1,18 @@
-# Hi there 👋
-
-Welcome to my GitHub profile! I'm Aman , a computer science graduate with a passion for technology and a knack for problem-solving. I believe in constantly exploring new possibilities and pushing the boundaries of what I can achieve. 😄
+Trying my best to make cool stuff whenever I can
 
 ## 👨‍💻 Skills
 
 Here are some of the skills I've acquired throughout my academic and professional journey:
 
-- Machine Learning 🤖
-- Java ☕
-- AWS (Amazon Web Services) ☁️
-- Azure (Microsoft Azure) ☁️
-- PyTorch 🐍
-- Python 🐍
-- JavaScript 🌐
-
-## 🎉 Hobbies
-
-When I'm not immersed in coding and technology, you can find me indulging in various hobbies and activities:
-
-- Football ⚽️
-- Powerlifting 💪
-- Food Lover 🍔🍕🍣
-- Crafting 🎨
+- Machine Learning
+- AWS (Amazon Web Services) 
+- Python
+- Golang
+- Linux
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/choobs). You can also check out some of my projects and contributions below.
 
-Thanks for stopping by! Have a great day! 😄
+Thanks for stopping by! 😄
 
 
 
