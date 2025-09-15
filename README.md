@@ -12,7 +12,7 @@ Here are some of the skills I've acquired throughout my academic and professiona
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/choobs). You can also check out some of my projects and contributions below.
 
-Thanks for stopping by! 😄
+Thanks for stopping by!
 
 
 
