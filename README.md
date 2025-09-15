@@ -1,4 +1,4 @@
-Trying my best to make cool stuff whenever I can
+Trying my best to make cool stuff whenever I can 😄
 
 ## 👨‍💻 Skills
 
